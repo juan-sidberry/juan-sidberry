@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juan-sidberry
-- 👀 I’m interested in learning thias stuff.
+- 👀 I’m interested in learning this stuff.
 - 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on anything.
 
